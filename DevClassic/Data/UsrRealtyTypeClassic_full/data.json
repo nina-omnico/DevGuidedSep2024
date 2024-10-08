@@ -52,22 +52,6 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "975fd0cb-88b4-4c09-ae56-f64504e256fb"
-        },
-        {
-          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
-          "Value": "\/Date(1727661683764+0200)\/"
-        },
-        {
-          "SchemaColumnUId": "eaec8da9-2a25-f40c-3ec2-c29798e47e59",
-          "Value": "Code"
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "b2cbe9a0-a478-4381-8e46-48b92a76d175"
         },
         {
